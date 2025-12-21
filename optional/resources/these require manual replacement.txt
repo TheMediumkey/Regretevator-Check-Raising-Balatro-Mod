@@ -1,0 +1,15 @@
+1. Download 7zip
+	2. Right click on Balatro.exe (in Steam > steamapps > common > Balatro) and select (On Windows 11, you 	   will have to select the "Show More Options" on the bottom of the drop down) 7Zip > Open Archive
+	3. Drag and drop the folders (inside the "for repaint" folder) on to the first screen of the window
+	   to replace
+	4. Select yes to any confirmation boxes that may appear confirming
+	   to replace files
+
+After that, it should all be inserted and when you launch the game the edits should appear straight away.
+Keep in mind that by doing this, you will have to revert your game to remove the mod.
+
+You can do this by:
+	1. Right-click on the game in your Steam library
+	2. Select Properties...
+	3. Navigate to the Installed Files tab
+	4. Select Verify integrity of game files
