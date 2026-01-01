@@ -642,7 +642,7 @@ return {
                 },
             },
             j_ice_cream={
-                name="Jerm Pop",
+                name="JermoPop",
                 text={
                     "{C:chips}+#1#{} Chips",
                     "{C:chips}-#2#{} Chips for",
@@ -1260,7 +1260,7 @@ return {
                 },
             },
             j_ticket={
-                name="Golden Ticket",
+                name="Counter Strike: Source",
                 text={
                     "Played {C:attention}Gold{} cards",
                     "earn {C:money}$#1#{} when scored",
