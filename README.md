@@ -9,6 +9,7 @@ Modifies the following:
     Tarot Cards
     Planet Cards
     Spectral Cards
+    Card Effects
     Boss Blinds
     Music
 
